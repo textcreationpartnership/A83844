@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall votes and resolution of the Commons assembled in Parliament: for the drawing the Army under the command of the Lord Fairfax into garisons, in order to the late demands made by his Excellency. H. Elsynge, Cler. Parl. D. Com. Together with the proposition sent to the King, for security to those of Scotland, who assisted the Parliament of England. Also letters were read in both Houses, from the commissioners in the Isle of Wight. With His Majesties finall answer to both Houses, concerning the proposition for Ireland, and the Marquess of Ormond. And the princes sentence upon Sir Robert Welsh, concerning the Lord Culpepper.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83844</idno><idno type="EEBO-CITATION">99869793</idno>
+  <idno type="VID">162450</idno>
+  <idno type="EEBO-PROQUEST">2240952120</idno>
+  
+            <idno type="STC">Wing E2730</idno>
+            <idno type="STC">Thomason E473_34</idno>
+            <idno type="STC">ESTC R211058</idno>
+            <idno type="PROQUEST">99869793</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99869793e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83844)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162450)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E473[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall votes and resolution of the Commons assembled in Parliament: for the drawing the Army under the command of the Lord Fairfax into garisons, in order to the late demands made by his Excellency. H. Elsynge, Cler. Parl. D. Com. Together with the proposition sent to the King, for security to those of Scotland, who assisted the Parliament of England. Also letters were read in both Houses, from the commissioners in the Isle of Wight. With His Majesties finall answer to both Houses, concerning the proposition for Ireland, and the Marquess of Ormond. And the princes sentence upon Sir Robert Welsh, concerning the Lord Culpepper.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M. W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A newsbook -- Wing.</note>
+                  <note>Annotation on Thomason copy: "Nou: 28th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons --  Rules and practices --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162450:1"/>
+            <p>SEVERALL <hi>VOTES</hi> and <hi>RESOLƲTIONS</hi> OF THE Commons assembled in Parliament: For the drawing the Army under the Command of the Lord FAIRFAX into Garisons, in Order to the late demands made by his Excellency. <hi>H. Elsynge, Cler. Parl. D. Com.</hi>
+            </p>
+            <p>Together with the PROPOSITION Sent to the King, for security to those of Scotland, who assisted the Par<g ref="char:EOLhyphen"/>liament of ENGLAND.</p>
+            <p>Also Letters were read in both Houses, from the Commissioners in the Isle of <hi>WIGHT.</hi>
+            </p>
+            <p>WITH His Majesties finall Answer to both Houses, concerning the Propo<g ref="char:EOLhyphen"/>sition for Ireland, and the Marquess of ORMOND.</p>
+            <p>And the Princes sentence upon Sir <hi>Robert Welsh,</hi> concerning the Lord <hi>Culpepper.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>M. W.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162450:2"/>
+            <pb n="3" facs="tcp:162450:2"/>
+            <head>Severall Votes and Resolutions of the Commons assembled in Parliament, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">Ʋ</seg>Pon the Reports to the House of Commons, made by Mr. <hi>Scowen,</hi> of the Demands made by the Commit<g ref="char:EOLhyphen"/>tee imployed to that purpose, and the Generals Answer to those Demands, It is Resolved as followeth:</p>
+            <p n="1">1. <hi>Resolved, &amp;c.</hi> That of the late Ad<g ref="char:EOLhyphen"/>ditions to the Train, the Lieutenant Gene<g ref="char:EOLhyphen"/>ral and his Clerk, one Engineir and Fire-Master with a Clerk, one Chirurgeon, a Quarter-master for the Train, the Master Gun-smith and his man, a Marshal, 3 Gen<g ref="char:EOLhyphen"/>tlemen of the Ordnance, 3 Gunners, two Clerks for the Commissary of Ammunition may be continued, and 20 Gunners more ad<g ref="char:EOLhyphen"/>ded, and that all the other Additions of the Train be reduced.</p>
+            <p n="2">
+               <pb n="4" facs="tcp:162450:3"/>2. <hi>Resolved, &amp;c.</hi> That the House doth approve of the Generals Answer to that de<g ref="char:EOLhyphen"/>mand of the Committee, <hi>viz.</hi> That the Ge<g ref="char:EOLhyphen"/>neral will give command against the listing or receiving of any new Recruits, as is desi<g ref="char:EOLhyphen"/>red, and that all such as have been taken on since the 23 of <hi>Septemb.</hi> last, be forthwith disbanded.</p>
+            <p n="3">3. <hi>Resolved, &amp;c.</hi> That the supernume<g ref="char:EOLhyphen"/>raries of Horse and Foot of the Army, that have been taken on upon the late troubles, and are now to be reduced, shall have 20 shillings a Trooper, and 15 shillings a pri<g ref="char:EOLhyphen"/>vate foot Souldier, bestowed upon them by the Parliament by way of gratuity, and paid unto them by order of the Committee of the Army upon their disbanding, and that upon the pay of their Arrears for the Service, de<g ref="char:EOLhyphen"/>falcation be made for free Quarter, accor<g ref="char:EOLhyphen"/>ding to the rules of the former Agreement for the stating of Arrears.</p>
+            <p n="4">4. <hi>Resolved, &amp;c.</hi> That the defalcations for Free-quarter since <hi>Jan.</hi> 15 last, to those that shall stand, shall be according to the rules in the former agreement for the stating of Ar<g ref="char:EOLhyphen"/>rears.</p>
+            <p n="5">
+               <pb n="5" facs="tcp:162450:3"/>5. <hi>Resolved, &amp;c.</hi> That all such as have bin taken on since <hi>Septemb.</hi> 23 last, be forthwith disbanded without pay.</p>
+            <p n="6">6. <hi>Resolved, &amp;c.</hi> That the Arrears of the Assessements for the Army, due <hi>Septem.</hi> 29. last, and for the two months since, be brought in by <hi>Decemb.</hi> 10 next, so as the Supernume<g ref="char:EOLhyphen"/>raries may be disbanded, the Army paid and drawn into Market Towns, Cities and Garisons, and free Quarter discharged.</p>
+            <p n="7">7. <hi>Resolved, &amp;c.</hi> That this House doth a<g ref="char:EOLhyphen"/>gree to the Generals Answer to the second desire of the Committee upon the fourth Re<g ref="char:EOLhyphen"/>solution, <hi>viz.</hi> That Towns may be under<g ref="char:EOLhyphen"/>stood to extend to Market Towns onely, and streets adjoyning neer to the Towns.</p>
+            <p>
+               <hi>Mr.</hi> Scowen <hi>further reported the Generals Declaration of his Instructions touching the drawing the Army into Quarters in Cities, Market Towns, and Garisons; and the prohibi<g ref="char:EOLhyphen"/>ting, upon severe punishment, the taking of Free-quarter: the which was read.</hi>
+            </p>
+            <p>An Ordinance by the way of Declaration for bringing in the Assessments for the Ar<g ref="char:EOLhyphen"/>my, and drawing the Army into Cities,
+<pb n="6" facs="tcp:162450:4"/> Towns &amp; Garisons by <hi>Decem.</hi> 10 next, and for discharging of Free-quarter, was the same day read the first and second time, and upon the question, committed to the Members of this House that are of the Committee of the Army, with the addition of 30 more as to this businesse, and they are to meet this after<g ref="char:EOLhyphen"/>noon at two a clock, in the room where the Committee of the Army sits, and they are to consider of the business debated touching Assignations, and such other wayes as they shall think fit, for the best and most orderly bringing in, and paying out the monies for the Army to the most satisfaction of the Souldiery, and least charge and greatest ease of the Kingdom.</p>
+            <p>Ordered, that the Committee of the Ar<g ref="char:EOLhyphen"/>my do send for the Treasurers at Wars, and conferr and consider with them, for the con<g ref="char:EOLhyphen"/>tinuing longer of such moneys as are advan<g ref="char:EOLhyphen"/>ced and lent by them for the service of the Army, and upon what security, in regard of the present occasion for the Army.</p>
+            <pb n="7" facs="tcp:162450:4"/>
+            <p>THe Commons passed a new Proposi<g ref="char:EOLhyphen"/>tion to be sent to the King, for secu<g ref="char:EOLhyphen"/>rity to those of <hi>Scotland</hi> who assisted the Parliament of <hi>England;</hi> and for confirma<g ref="char:EOLhyphen"/>tion of the amity of the Kingdoms: And a Letter to be sent to the Commissioners to come away on <hi>Munday</hi> next expresly; to give account to the Houses of the Treaty; <hi>Saturday</hi> night being positively agreed upon to be the ultimate day of the Treaty, conclu<g ref="char:EOLhyphen"/>ded by the Houses.</p>
+            <p>LEtters were read in each House from their Commissioners in the Isle of <hi>Wight,</hi> with a Paper from the King, in an<g ref="char:EOLhyphen"/>swer to their last pressing for a finall answer to the business of <hi>Ormond,</hi> that He gave His Answer before, that the power is by the Pro<g ref="char:EOLhyphen"/>position for <hi>Ireland,</hi> included in the Parlia<g ref="char:EOLhyphen"/>ment, and the Officers to be nominated by the two Houses; and that all being conclu<g ref="char:EOLhyphen"/>ded in the Treaty, that will also. This Answer from His Majesty was Voted by the Commons unsatisfactory.</p>
+            <pb n="8" facs="tcp:162450:5"/>
+            <p>VPon consideration and examination had of an insolent attempt made upon the person of the Lord <hi>Culpepper,</hi> on <hi>Munday</hi> last, by Sir <hi>Robert Welsh,</hi> alias <hi>Elmes,</hi> appears. That the said Sir <hi>Ro.</hi> with three others armed with swords, and one of them carrying the said Sir <hi>R. Welsh</hi> his sword in his hand, meeting the Lord <hi>Culpepper</hi> unarmed, between his lodging and the Court, saluted him, and without any shew of passion, ex<g ref="char:EOLhyphen"/>postulated with the said L. <hi>Culpepper,</hi> concerning some words uttered by his Lordship in Councel: to the which having re<g ref="char:EOLhyphen"/>ceived fair and civil answers, he continued his walk with him, seeming only temperately to debate the same; till on the sud<g ref="char:EOLhyphen"/>den, without giving or receiving the least unkinde or rough word, he gave the Lord <hi>Culpepper</hi> a blow on the face with his hand, those other with him interposing between the Lord <hi>Culpepper</hi> and his servant, and laying hands on his servant, to prevent the delivery of his Sword to his Lord, All which being duly weighed and considered, His Highness doth hereby declare, That as He looks upon, and must always remember this Act, being committed upon a Peer of the Realm of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> a Privie Councellor to His Royall Father, and in the quality now attending His Royall person; as the most mali<g ref="char:EOLhyphen"/>cious attempt of the authority of the King, and His own dignity, that hath been at any time committed by any person; so that in it self, all other considerations set apart, it was an infamous, ruffianly act, unworthy a person of courage or reputation, having in no degree, then, or formerly required satisfaction. And therefore His Highness conceiving a just indignation against him, and this odious and ungentlemanly demenor of his, Doth expresly inhibit and forbid the said Sir <hi>Robert Welsh</hi> any more to presume to come within his Presence, or into his Court, as a man unworthy of His High<g ref="char:EOLhyphen"/>ness countenance or protection. And of this signification of His pleasure, His Highness requires the Officers of His House to take notice in such manner, that he be no more permitted to enter into any Room within His Highness power and disposall.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
